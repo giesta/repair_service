@@ -1,4 +1,4 @@
-* Insert project into empty folder / git clone https://github.com/giesta/repair-service.git
+* Insert project into empty folder / git clone https://github.com/giesta/repair_service.git
 * Create an empty database table
 * Copy the .env.example to .env and insert the Database config
 * Run the following commands
